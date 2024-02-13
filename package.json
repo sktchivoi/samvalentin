@@ -2,7 +2,7 @@
   "name": "sugusreact",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://sktchivoi.github.io/samvalentin",
+  "homepage": ".",
   "type": "module",
   "scripts": {
     "dev": "vite",
