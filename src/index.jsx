@@ -9,7 +9,7 @@ const styles = {
       backgroundColor: '#FFB6C1',
       borderColor: '#FFB6C1',
       color: '#FFFFFF',
-      fontSize: 'larger',
+      fontSize: '40px',
       marginInline: '50px',
     },
   };
