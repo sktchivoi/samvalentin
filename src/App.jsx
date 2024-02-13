@@ -6,9 +6,9 @@ function App() {
   return (
     <>
       <Router>
-        <Route path="/" element={<Index/>}/>
-        <Route path="/index" element={<Index/>}/>
-        <Route path="/acept" element={<Acept/>}/>
+        <Route exact path="/" component={Index}/>
+        <Route path="/index" component={Index}/>
+        <Route path="/acept" component={Acept}/>
       </Router>
     </>
   )
